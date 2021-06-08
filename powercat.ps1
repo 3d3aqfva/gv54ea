@@ -21,7 +21,7 @@ function powercat
     [alias("Help")][switch]$h=$False
   )
   
-  ############### HELP ###############
+  ################ HELP ###############
   $Help = "
 powercat - Netcat, The Powershell Version
 Github Repository: https://github.com/besimorhino/powercat
